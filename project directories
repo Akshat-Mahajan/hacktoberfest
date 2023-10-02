@@ -1,0 +1,11 @@
+my-blog/
+  ├── node_modules/
+  ├── public/
+  │    ├── styles.css
+  │    └── scripts.js
+  ├── views/
+  │    ├── index.html
+  │    ├── post.html
+  ├── app.js
+  ├── package.json
+  └── package-lock.json
